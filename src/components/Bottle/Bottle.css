@@ -1,0 +1,22 @@
+.bottle {
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    margin: 15px;
+    background-color: rgb(235, 238, 238);
+}
+.bottle:hover {
+    box-shadow: -2px 0px 11px 2px rgba(109,109,109,0.41);
+    -webkit-box-shadow: -2px 0px 11px 2px rgba(109,109,109,0.41);
+    -moz-box-shadow: -2px 0px 11px 2px rgba(109,109,109,0.41);
+}
+.btn-div {
+    display: flex;
+    gap: 10px;
+    padding: 5px;
+    
+    
+}
+.btn{
+    background-color:grey;
+    color:aliceblue
+}
